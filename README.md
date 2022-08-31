@@ -1,4 +1,4 @@
-# aaevelion.github.io
+# Rajnil Mukherjee
 A GitHub page about me and my adventures with computing
 
 Well,
