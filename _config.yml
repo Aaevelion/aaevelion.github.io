@@ -1,3 +1,6 @@
-remote_theme: argon-design-system-react/creativetimofficial
+theme: cayman
+markdown: GFM
 title: Rajnil Mukherjee
 description: Hi!Bookmark this to keep an eye on my project updates! 
+plugins:
+-jekyll-remote-theme
