@@ -1,4 +1,4 @@
-theme: cayman
+remote_theme: pages-themes/primer@v0.6.0
 markdown: GFM
 title: Rajnil Mukherjee
 description: Hi!Bookmark this to keep an eye on my project updates! 
