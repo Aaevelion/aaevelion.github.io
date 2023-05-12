@@ -3,9 +3,9 @@ title: Rajnil Mukherjee
 subtitle: The Aaevelion Project
 email: rajnilmukherjee.rm@gmail.com
 description: Welcome to my website!
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+baseurl: "/rajnil-mukherjee" #the subpath of your site, e.g. /blog
+url: "https/aaevelion.github.io" # the base hostname & protocol for your site
+author: Rajnil Mukherjee
 street_address: F6/2 Indraloke Housing Estate 3, Paikpara
 city: Kolkata
 state: West Bengal
@@ -27,9 +27,9 @@ socials:
   Google-Plus: 
   Instagram: rajnil_mukherjee
   LinkedIn: https://www.linkedin.com/in/rajnil-mukherjee-503a5a1ba/
-  #Twitter: 
-  #Facebook:
-  #Slack:
+  Twitter: 
+  Facebook:
+  Slack:
 
 # build settings
 markdown: kramdown

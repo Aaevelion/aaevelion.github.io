@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Look who's here! Grab a seat!</h2>
 		</header>
-		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 2nd year undergrad at the Indian Institute of Science Education and Research (IISER), Mohali, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist, the drummer in my college rock band and currently the co-convener of Turing-the Computer Club of IISER Mohali. </p>
+		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 2nd year undergrad at the Indian Institute of Science Education and Research (IISER), Mohali, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist, the drummer in my college rock band and currently (I still don't know how) the co-convener of Turing--the Computer Club of IISER Mohali. </p>
 	</div>
 </section>
 
