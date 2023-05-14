@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Musings
+landing-title: 'Musings'
 nav-menu: true
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
-<h1>All posts</h1>
+<h1>Musings</h1>

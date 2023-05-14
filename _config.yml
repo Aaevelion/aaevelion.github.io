@@ -1,7 +1,8 @@
 # site settings
 title: Rajnil Mukherjee
 subtitle: The Aaevelion Project
-email: rajnilmukherjee.rm@gmail.com
+email_1: rajnilmukherjee.rm@gmail.com
+email_2: ms21213@iisermohali.ac.in
 description: Welcome to my website!
 baseurl: #the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
