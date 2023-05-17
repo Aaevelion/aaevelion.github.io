@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy doesn't have much to talk about I know, but I do plan to extent this section futher in the future. You can find my current CV <a href=https://drive.google.com/file/d/1GSLhn476QdRaRGjjKtxBaucGGkMRotpD/view?usp=share_link> here </a> </p>
+<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy doesn't have much to talk about I know, but I do plan to extent this section futher in the future. You can find my current CV <a href="https://drive.google.com/file/d/1GSLhn476QdRaRGjjKtxBaucGGkMRotpD/view?usp=share_link"> here </a> </p>
 <h2 id="content">Research Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
