@@ -2,7 +2,7 @@
 layout: post
 title: Hobbies
 description: Because just like real life, hobbies are also important.
-image: assets/images/pic11.jpg
+image: assets/images/hobbies_1.jpg
 nav-menu: true
 show_title: true
 ---
@@ -18,8 +18,8 @@ Also, I listen to a lot of heavy rock and metalcore. Slipknot, Avenged Sevenfold
 I dabble a bit in front end. That is how I got this site up :). I am pretty new though, and currently with the help of my friend Rishi @ IISER I am making sites for clubs. 
 
 ## Reading
-I used to be a voracious reader once, but had to kind of give up on that because of my high school curriculum.I am picking that again. I have read a lot of books, and I am currently trying to read more non-fiction. I am also trying to read more books by Indian authors.
+I used to be a voracious reader once, but had to kind of give up on that because of my high school curriculum.I am picking that up again. I have read a lot of books, and I am currently trying to read more non-fiction. I am also trying to read more books by Indian authors.
 
 ## Anime 
-Yeah I like watching anime. Don't judge me. And also, don't ask me my top 5, 10, or anything. I don't maintain a MAL. And KnY story is mid, change my mind.
+Yeah I like watching anime. Don't judge me. And also, don't ask me my top 5, 10, or anything. I don't maintain a MAL. And everything in this world is a Gintama reference.
 
