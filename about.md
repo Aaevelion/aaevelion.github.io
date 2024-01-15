@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Look who's here! Grab a seat!</h2>
 		</header>
-		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 3rd year physics major doing my undergrad at the Indian Institute of Science Education and Research (IISER), Mohali, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist, the drummer in my college rock band and currently (I still don't know how) the co-convener of Turing--the Computer Club of IISER Mohali. </p>
+		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 3rd year physics major doing my undergrad at the Indian Institute of Science Education and Research (IISER), Mohali, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist, the drummer in my college rock band. I was previously the co-convener of Turing--the Computer Club of IISER Mohali, and I try to be actively associated with the activities of the club. </p>
 	</div>
 </section>
 
@@ -59,7 +59,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Jobless after classes?</h3>
 				</header>
-				<p>Sometimes I wish I was. I am a very avid drummer, and play with my friends as a part of a band in my college. I also dabble in front-end web development, and watch a lot of anime, not to mention that I got a club to handle. I used to read a lot too, but it kind of stopped sometime during my +2. However, I have started picking it up again here in Bangalore, so less gooo!  </p>
+				<p>Sometimes I wish I was. I am a very avid drummer, and play with my friends as a part of a band (Ulysses) in my college. We recently won 3rd in IICM (Inter IISER Cultural Meet) 2023 Battle of Bands, wherein contingents from all the 7 IISERs, along with IISc, NISER and CEBS, participate ( :) ).  I also dabble in front-end web development, and watch a lot of anime. I used to read a lot too, but it kind of stopped sometime during my +2. However, I have started picking it up since Bangalore, so less gooo!  </p>
 				
 			</div>
 		</div>
