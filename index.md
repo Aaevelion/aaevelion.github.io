@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Rajnil!'
+landing-title: 'Hi, Rajnil here!'
 description: null
 image: assets/images/banner_1.jpg
-author: null
+author: Rajnil Mukherjee
 show_tile: false
 ---
 

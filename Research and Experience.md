@@ -16,12 +16,12 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy like me doesn't have much to talk about I know, but I do plan to expand this section futher in the future. You can find my current CV <a href="https://drive.google.com/file/d/1GSLhn476QdRaRGjjKtxBaucGGkMRotpD/view?usp=share_link"> here </a>. You can also find my ORCID <a href="https://orcid.org/0000-0003-2694-8054"> here </a> (although right now, it is nothing much to look at)</p>
+<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy like me doesn't have much to talk about I know, but I do plan to expand this section further in the future. You can find my current CV <a href="https://drive.google.com/file/d/1GSLhn476QdRaRGjjKtxBaucGGkMRotpD/view?usp=share_link"> here </a>. You can also find my ORCID <a href="https://orcid.org/0000-0003-2694-8054"> here </a> (although right now, it is nothing much to look at)</p>
 <h2 id="content">Research Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Summer 2023 </h3>
-		<p>Currently I am working under Dr. Santanu Mondal at the Indian Institute of Astrophysics (IIA) Bangalore. Right now I am studying the high energy gamma ray emission of various galaxies using Fermi LAT data. An extremely engaging project to work on, and I am learning a lot of new things.</p>
+		<h3>Summer 2023 - Present </h3>
+		<p>Currently I am working with <a href = "https://www.iiap.res.in/people/profile/academic/santanu-mondal/"> Dr. Santanu Mondal </a> and (starting from Summer 2024) in collaboration with <a href = "https://www.iiap.res.in/people/profile/academic/ravi-joshi/"> Dr. Ravi Joshi </a> at the <a href = "https://www.iiap.res.in/"> Indian Institute of Astrophysics (IIA), Bangalore </a>. I am working on Fermi Bubbles and their possible extra-galactic analogs in different wavebands, currently in Gamma and H alpha.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Summer 2022</h3>
