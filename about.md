@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Look who's here! Grab a seat!</h2>
 		</header>
-		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 3rd year physics major doing my undergrad at the <a href = "https://www.iisermohali.ac.in/"> Indian Institute of Science Education and Research (IISER), Mohali </a>, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist and the drummer in my college rock band. I was previously the co-convener of Turing--the Computer Club of IISER Mohali, and I try to be actively associated with the activities of the club. </p>
+		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 4th year physics major doing my undergrad at the <a href = "https://www.iisermohali.ac.in/"> Indian Institute of Science Education and Research (IISER), Mohali </a>, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist and the drummer in my college rock band. I was previously the co-convener of Turing--the Computer Club of IISER Mohali, and I try to be actively associated with the activities of the club. </p>
 	</div>
 </section>
 
@@ -34,7 +34,9 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="Research and Experience.html" class="button">Learn more</a></li>
 				</ul>
+				<p>
 				(PS: I am the guy on the left :) )
+				</p>
 			</div>
 		</div>
 	</section>
