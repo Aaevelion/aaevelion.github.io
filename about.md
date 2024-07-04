@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What's up?</h3>
 				</header>
-				<p>Well, I just came back from a trip to Bangalore in the summer, doing a project on possible Fermi Bubble analogs under Dr. Santanu Mondal here at the Indian Institute of Astrophysics (IIA). Going to Bangalore was one of the best decisions of my life, and now that I have come back to IISER for my 5th Sem, I am kinda missing it. *sob* </p>
+				<p>Well, I am right now on a Tour-of-Duty to Bangalore in the summer, doing a project on possible Fermi Bubble analogs with Dr. Santanu Mondal and Dr. Ravi Joshi here at the Indian Institute of Astrophysics (IIA). Going to Bangalore has been one of the best decisions of my life, although I am kind of missing home as well. *sob* </p>
 			</div>
 		</div>
 	</section>
