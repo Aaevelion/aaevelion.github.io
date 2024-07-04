@@ -34,28 +34,47 @@
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
-					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+					<a href="tel:{{ site.phone }}">{{ site.phone_1 }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<h3>Present Address</h3>
 					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
+					{% if site.street_address_2 %}
+					    {{ site.street_address_2 }}<br />
 					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
+					{% if site.city_2 %}
+					    {{ site.city_2 }},
 					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
+					{% if site.state_2 %}
+					    {{ site.state_2 }} 
 					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
+					{% if site.zip_code_2 %}
+					    {{ site.zip_code_2 }}<br />
 					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
+					{% if site.country_2 %}
+					    {{ site.country_2 }}
+					{% endif %}
+					</span>
+					<span class="icon alt fa-home"></span>
+					<h3>Permanent Address</h3>
+					<span>
+					{% if site.street_address_1 %}
+					    {{ site.street_address_1 }}<br />
+					{% endif %}
+					{% if site.city_1 %}
+					    {{ site.city_1 }},
+					{% endif %}
+					{% if site.state_1 %}
+					    {{ site.state_1 }} 
+					{% endif %}
+					{% if site.zip_code_1 %}
+					    {{ site.zip_code_1 }}<br />
+					{% endif %}
+					{% if site.country_1 %}
+					    {{ site.country_1 }}
 					{% endif %}
 					</span>
 				</div>

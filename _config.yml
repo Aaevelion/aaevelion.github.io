@@ -7,12 +7,18 @@ description: Welcome to my website!
 baseurl: #the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Rajnil Mukherjee
-street_address: F6/2 Indraloke Housing Estate 3, Paikpara
-city: Kolkata
-state: West Bengal
-zip_code: 700002
-country: India
-phone: +91 8017965462
+street_address_1: F6/2 Indraloke Housing Estate 3, Paikpara
+city_1: Kolkata
+state_1: West Bengal
+zip_code_1: 700002
+country_1: India
+phone_1: +91 8017965462
+street_address_1: Hostel 5 Room 106, IISER Mohali, Sector 81 Knowledge City, PO Manauli
+city_1: SAS Nagar (Mohali)
+state_1: Punjab
+zip_code_1: 140306
+country_1: India
+phone_1: +91 8017965462
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
