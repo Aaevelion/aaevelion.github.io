@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Look who's here! Grab a seat!</h2>
 		</header>
-		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 3rd year physics major doing my undergrad at the Indian Institute of Science Education and Research (IISER), Mohali, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist, the drummer in my college rock band. I was previously the co-convener of Turing--the Computer Club of IISER Mohali, and I try to be actively associated with the activities of the club. </p>
+		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 3rd year physics major doing my undergrad at the <a href = "https://www.iisermohali.ac.in/"> Indian Institute of Science Education and Research (IISER), Mohali </a>, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist and the drummer in my college rock band. I was previously the co-convener of Turing--the Computer Club of IISER Mohali, and I try to be actively associated with the activities of the club. </p>
 	</div>
 </section>
 
@@ -23,17 +23,18 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/about_5.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/about_5.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Khwaab mere (Sing-song in a Local Train way)</h3>
 				</header>
-				<p>As said before, I am an aspiring astrophysicst. However, unlike other astro geeks out there, my GK is very bad, so don't expect me to go answer queries like what that star is--I don't know okay? Catalogues are there for a reason. I am a physics major, and you can learn more about my projects and experiences here:</p>
+				<p>As said before, I am an aspiring astrophysicst. However, unlike other astro geeks out there, my GK is very bad, so don't expect me to go answer queries like what that star is--I don't know okay? Catalogues are there for a reason. I am completing my physics major, and you can learn more about my projects and experiences here:</p>
 				<ul class="actions">
 					<li><a href="Research and Experience.html" class="button">Learn more</a></li>
 				</ul>
+				(PS: I am the guy on the left :) )
 			</div>
 		</div>
 	</section>
@@ -46,7 +47,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What's up?</h3>
 				</header>
-				<p>Well, I am right now on a Tour-of-Duty to Bangalore in the summer, doing a project on possible Fermi Bubble analogs with Dr. Santanu Mondal and Dr. Ravi Joshi here at the Indian Institute of Astrophysics (IIA). Going to Bangalore has been one of the best decisions of my life, although I am kind of missing home as well. *sob* </p>
+				<p>Well, I am right now on a Tour-of-Duty to Bangalore this summer, doing a project on possible extra-galactic Fermi Bubble analogs with <a href = "https://www.iiap.res.in/people/profile/academic/santanu-mondal/"> Dr. Santanu Mondal </a> since Summer 2023, and since Summer 2024, in collaboration with <a href = "https://www.iiap.res.in/people/profile/academic/ravi-joshi/"> Dr. Ravi Joshi </a> at the <a href = "https://www.iiap.res.in/"> Indian Institute of Astrophysics (IIA), Bangalore </a>. Going to Bangalore has been one of the best decisions of my life, although I am kind of missing home as well, and certainly do not want to go back to IISER M for my upcoming 7th semester *sob* </p>
 			</div>
 		</div>
 	</section>

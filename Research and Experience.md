@@ -25,13 +25,13 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Summer 2022</h3>
-		<p>I took up a reading project under Dr. Prasenjit Das at IISER Mohali, trying to simulate phase transitions in spin lattice systems using Monte Carlo techniques. I was primarily trying to replicate the results of the paper by Steinberg et al. This was my first ever project, and again I gained a very valuable exposure to the world of academia, thanks to Dr. Das.</p>
+		<p>I took up a reading project under <a href = "https://web.iisermohali.ac.in/dept/physics/Prasenjit_Das.html"> Dr. Prasenjit Das at <a href = "https://www.iisermohali.ac.in/"> IISER Mohali </a>, trying to simulate phase transitions in spin lattice systems using Monte Carlo techniques. I was primarily trying to replicate the results of the paper by Steinberg et al. This was my first ever project, and again I gained a very valuable exposure to the world of academia, thanks to Dr. Das.</p>
 	</div>
 </div>
 <h2 id="content">Work Experience</h2>
 <div class="row">
 	<div class="6u 12u$(medium)">
-		<h3>Physics mentor @ Sciastra (October 2021-May 2022, October 2023- Present)</h3>
+		<h3>Physics mentor @ Sciastra (October 2021-May 2022, October 2022- August 2023)</h3>
 		<p>Sciastra is an ed startup which aims to provide a platform for students to learn and explore science and prepare for entrance exams of research institutes like IISERs, NISER etc. I am currently working as a physics mentor, and I am responsible for creating content for the physics section. I am also responsible for mentoring students in pursuit of their academic goals.</p>
 	</div>
 	<div class="6u$ 12u$(medium)">
