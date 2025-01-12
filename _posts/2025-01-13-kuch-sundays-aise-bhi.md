@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _Kuch Sundays, aise bhi..._
+title: Kuch Sundays, aise bhi...
 image: assets/images/sundays.jpeg
 ---
 
