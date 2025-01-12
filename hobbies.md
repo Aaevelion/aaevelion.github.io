@@ -2,7 +2,7 @@
 layout: post
 title: Hobbies
 description: Because just like real life, hobbies are also important.
-image: assets/images/hobbies_2.JPG
+image: assets/images/hobbies_2.jpeg
 nav-menu: true
 show_title: true
 ---
