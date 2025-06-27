@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What's up?</h3>
 				</header>
-				<p>I am right now in the SE France, in Nice. And no I am not vacationing--I am not rich ok :') ? I am working at the Lagrange Laboratory of the Cote d'Azure Observatory with Dr Remi Adam for my MS Thesis project, required as per the course curriculum at IISER M. The administrative gymnastics were worth it: beautiful city and wonderful people :D
+				<p>I am right now in the SE of France, in Nice. And no I am not vacationing--I am not rich ok :') ? I am working at the Lagrange Laboratory of the Cote d'Azure Observatory with Dr Remi Adam for my MS Thesis project, required as per the course curriculum at IISER M. The administrative gymnastics were worth it: beautiful city and wonderful people :D
 				<br>
 				I will be back in India by the end of November though, hence it's not that peeps at IISER/Kolkata won't be seeing me around anymore :) So yeah, *a bientot!*
 			    <br>
