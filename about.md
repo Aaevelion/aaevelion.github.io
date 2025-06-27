@@ -42,14 +42,18 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/about_4.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/oca.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>What's up?</h3>
 				</header>
-				<p>Well, I am right now on a Tour-of-Duty to Bangalore this summer, doing a project on possible extra-galactic Fermi Bubble analogs with <a href = "https://www.iiap.res.in/people/profile/academic/santanu-mondal/"> Dr. Santanu Mondal </a> since Summer 2023, and since Summer 2024, in collaboration with <a href = "https://www.iiap.res.in/people/profile/academic/ravi-joshi/"> Dr. Ravi Joshi </a> at the <a href = "https://www.iiap.res.in/"> Indian Institute of Astrophysics (IIA), Bangalore </a>. Going to Bangalore has been one of the best decisions of my life, although I am kind of missing home as well, and certainly do not want to go back to IISER M for my upcoming 7th semester *sob* </p>
+				<p>I am right now in the SE France, in Nice. And no I am not vacationing--I am not rich ok :') ? I am working at the Lagrange Laboratory of the Cote d'Azure Observatory with Dr Remi Adam for my MS Thesis project, required as per the course curriculum at IISER M. The administrative gymnastics were worth it: beautiful city and wonderful people :D
+				</br>
+				I will be back in India by the end of November though, hence it's not that peeps at IISER/Kolkata won't be seeing me around anymore :) So yeah, *a bientot!*
+			    </br>
+				PS: You _can_ say I am in the middle of a "workation" maybe :P</p>
 			</div>
 		</div>
 	</section>
