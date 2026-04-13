@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy like me doesn't have much to talk about I know, but I do plan to expand this section further in the future. You can find my current CV <a href="https://drive.google.com/file/d/1o0hjeysMwRhbU5U8QQjaRXQ_9oELIOV6/view?usp=sharing"> here (updated April 2026) </a>. You can also find my ORCID <a href="https://orcid.org/0000-0003-2694-8054"> here </a> (although right now, it is nothing much to look at)</p>
+<p>Ah well, as the title goes, I am going to talk about my research and experiences here. An academically young guy like me doesn't have much to talk about I know, but I do plan to expand this section further in the future. You can find my current CV <a href="https://drive.google.com/file/d/1LwFuj6SX278vh7MOZjAMLjWJZfpHI_vW/view?usp=sharing"> here (updated April 2026) </a>. You can also find my ORCID <a href="https://orcid.org/0000-0003-2694-8054"> here </a> (although right now, it is nothing much to look at)</p>
 <h2 id="content">Research Experience</h2>
 <div class = "row">
 	<div class = "6u 12u$(small)">
