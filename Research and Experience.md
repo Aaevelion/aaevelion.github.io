@@ -21,7 +21,8 @@ nav-menu: true
 <div class = "row">
 	<div class = "6u 12u$(small)">
 		<h3>Summer 2025 </h3>
-		<p>I am currently working on my MS Thesis (Final Year) project at the Lagrange Laboratory of the Cote d'Azure Observatory, Nice, France under the supervision of Dr Rémi Adam. I am working on investigating the capabilities of the upcoming CTA to constrain the CR content of galaxy clusters using a stacking approach. This will require me to develop a pipeline for the study of GCs and their non-thermal content with the CTA DC. (I will upload my thesis soon, in the meanwhile here is an abstract: <a href = "https://docs.google.com/document/d/e/2PACX-1vTvuSeEb26fKpk-Nl1_bxIC7lzpU7ESiSx_afvM186BvknVbroITVKu-rwuVoQU_x2ZLtXDesCCPhfJ/pub"> )</p>
+		<p>I am currently working on my MS Thesis (Final Year) project at the Lagrange Laboratory of the Cote d'Azure Observatory, Nice, France under the supervision of Dr Rémi Adam. I am working on investigating the capabilities of the upcoming CTA to constrain the CR content of galaxy clusters using a stacking approach. This will require me to develop a pipeline for the study of GCs and their non-thermal content with the CTA DC. (I will upload my thesis soon, in the meanwhile here is an abstract: <a href = "https://docs.google.com/document/d/e/2PACX-1vTvuSeEb26fKpk-Nl1_bxIC7lzpU7ESiSx_afvM186BvknVbroITVKu-rwuVoQU_x2ZLtXDesCCPhfJ/pub"> Click here! </a> )
+		</p>
 	</div>
 </div>
 <div class="row">
