@@ -28,7 +28,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Summer 2023 and 2024 </h3>
-		<p>I am working with <a href = "https://www.iiap.res.in/people/profile/academic/santanu-mondal/"> Dr. Santanu Mondal at the <a href = "https://www.iiap.res.in/"> Indian Institute of Astrophysics (IIA), Bangalore </a> and (starting from Summer 2024) in collaboration with <a href = "https://www.iiap.res.in/people/profile/academic/ravi-joshi/"> Dr. Uri Keshet </a> from Ben Gurion University. I am working on Fermi Bubbles and their possible extra-galactic analogs in gamma. We expect to present our results soon via a publication in a peer-reviewed journal. </p>
+		<p>I am working with <a href = "https://www.iiap.res.in/people/profile/academic/santanu-mondal/"> Dr. Santanu Mondal </a> at the <a href = "https://www.iiap.res.in/"> Indian Institute of Astrophysics (IIA), Bangalore </a> and (starting from Summer 2024) in collaboration with Dr. Uri Keshet from Ben Gurion University. I am working on Fermi Bubbles and their possible extra-galactic analogs in gamma. We expect to present our results soon via a publication in a peer-reviewed journal. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Summer 2022</h3>
