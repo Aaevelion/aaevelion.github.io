@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Look who's here! Grab a seat!</h2>
 		</header>
-		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 5th year physics major doing my undergrad at the <a href = "https://www.iisermohali.ac.in/"> Indian Institute of Science Education and Research (IISER), Mohali </a>, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist and the drummer in my college rock/metal band. I am actively involved in student activites of the college, and try to juggle my academic and social committments as successfully as possible :') </p>
+		<p>Hey! Nice to meet you. I am Rajnil Mukherjee, a 5th year physics major doing my undergrad at the <a href = "https://www.iisermohali.ac.in/"> Indian Institute of Science Education and Research (IISER), Mohali </a>, Punjab, India. I was born and brought up in the beautiful city of Kolkata, and completed my high school from there itself. I am an aspiring astrophysicist and was the drummer in my college rock/metal band. I was actively involved in student activites of the college, and am now currently unemployed (just kidding--I am waiting for my next contract position to begin :P) </p>
 	</div>
 </section>
 
@@ -23,39 +23,36 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/about_5.jpeg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Khwaab mere (Sing-song in a Local Train way)</h3>
 				</header>
-				<p>As said before, I am an aspiring astrophysicst. However, unlike other astro geeks out there, my GK is very bad, so don't expect me to go answer queries like what that star is--I don't know okay? Catalogues are there for a reason. I am completing my physics major, and you can learn more about my projects and experiences here:</p>
+				<p>As said before, I am an aspiring astrophysicst. However, unlike other astro geeks out there, my GK is very bad, so don't expect me to go answer queries like what that star is--I don't know okay? Catalogues are there for a reason. I recently completed my physics major, and you can learn more about my projects and experiences here:</p>
 				<ul class="actions">
 					<li><a href="Research and Experience.html" class="button">Learn more</a></li>
 				</ul>
-				<p>
-				(PS: I am the guy on the left :) )
-				</p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/oca.jpeg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/graduation.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>What's up?</h3>
 				</header>
-				I am trying to finish my Master's thesis, after which I will finally graduate (damn) with a Master's in Physics, and a Minor in Astronomy. The process is not at all pleasant though, and coupled with the fact that I will be officially unemployed in a couple of months, I am currently not thrilled at all (someone gib me a PhD plij :sob:)
+				I recently graduated!! Yesssssirrrr--your boy graduated with a Master's in Physics and a Minor in Astronomy from IISER Mohali!! ANNDDD I also have a PhD position lined up at the University of Montpellier at the Universe and Particles Laboratory! I join on the 1st of October, and leave for France on the 28th of September. So being parked at home is not that boring as well this time around ;)
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/about_3.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/about_6.jpeg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -63,8 +60,9 @@ nav-menu: true
 					<h3>What are you listening to lately?</h3>
 				</header>
 				I am lately listening to a lot of Alter Bridge and Kanonenfieber! Do check them out if you haven't already. Some of my other recommendations also include: Haken, The Down Troddence, Demonic Resurrection. I have wayyyyy more, and I am always up to give recommendations!
-				
-				
+				<p>
+				(PS: I am the guy on the left, and that's my band's bassist and one of my best friends on the right :) )
+				</p>
 			</div>
 		</div>
 	</section>
